@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.mark.picload"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.mark.picload"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
